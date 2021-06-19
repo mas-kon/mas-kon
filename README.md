@@ -1,4 +1,11 @@
-### Hi there 👋
+### Всем привет! 👋
+🌱 I’m currently learning all. 
+
+🚧 **Мои задачи на ближайшее время:**
+<!-- TODO-IST:START -->
+* [x] Прокачать свой профиль на **Github**
+* [x] Пройти курс по Git на Slurm
+<!-- TODO-IST:END -->
 
 <!--
 **mas-kon/mas-kon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
